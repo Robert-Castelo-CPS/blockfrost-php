@@ -11,7 +11,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Blockfrost\\" 		  : "../blockfrost_api/"
+			"Blockfrost\\" 		  : "blockfrost_api/"
 		}
 	},
 	"require-dev": {
